@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from one in the country, to a member of Parliament, intreating this session, may take to their consideration, the lamentable condition of the poor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03999</idno>
+            <idno type="STC">Wing L1495</idno>
+            <idno type="STC">ESTC R179550</idno>
+            <idno type="EEBO-CITATION">51571974</idno>
+            <idno type="OCLC">ocm 51571974</idno>
+            <idno type="VID">175277</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175277)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2726:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from one in the country, to a member of Parliament, intreating this session, may take to their consideration, the lamentable condition of the poor.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,]</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Dated at end: 10 May 1700.</note>
+                  <note>Reproduction of the original in the California State Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Social conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:175277:1" rendition="simple:additions"/>
+            <head>
+               <hi>A LETTER FROM</hi> One in the Country, to a Member of Parliament, intreating this Seſſion, may take to their Conſideration, the Lament<g ref="char:EOLhyphen"/>able Condition of the Poor.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>However unconcerned the moſt of Men may be, in what relates to the Good of a Society; Or that it may be nothing the Duty of ſome to Notice what is not within their private Station, yet this General and extreamly to be Lamented Inconveniency, from the Greivous Condition of the Poor, and the Unequal and little provident way of Supplying them, is a Calamity ſo little Tolerable, as the almoſt alike Impulſe, that forced the Speechleſs Son to ſpeak for diverting an Imminent hazard to his Father, may put every one as they are able to Cry for Help in this Affair, and makes me by this Line, in ſome Meaſure, to endeavour the laying before you your Duty as a Member of this enſuing Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The way of Supplying the Poor of this Nation, and there being neceſſitat to beg through the Countrey, has ſo many Palpable Inconveniencies attending it, as makes Obvious how equally Hurtful it is to Our Religious and Civil Inte<g ref="char:EOLhyphen"/>reſt; That way of Living giving occaſion of what, to the Scandal Religion, is the greateſt Nurſery of Sin and Wickedneſs; and ſurely there is Apparent Neceſ<g ref="char:EOLhyphen"/>ſity of appointing ſuch Methods in this Affair, as may tend to the Competent Supply of the truely Poor, Unable to do for their own Subſiſtance, and utterly Baniſh and put away that wicked Cuſtom of Begging by Sorners and Healthy Perſons of both Sexes, who generally as Beaſts live Promiſcuouſly, without reſpect to Laws, either Dirine or Humane. I am ſenſible the Difficulties in finding what may Effectuat this, ſo Great a Reformation, are near to being Unſuperable; yet the Laudable Practice of ſome other Nations, may perſwade of its being attain<g ref="char:EOLhyphen"/>able, and that we are unequal in Riches, to ſuch as does ſo provide for their Poor, is to me no Argument againſt, but for its being done, ſince Uncontravertedly the Nation would ſave by ſo doing, and almoſt the half of what is now given, would competently Supply the truely Indigent, and to our Unexpreſſable Advan<g ref="char:EOLhyphen"/>tage, the many Vagrant and Idle Perſons now in the Country, might be for their own and the Nations good, put to labour in ſome Manufactories fitted for them. And as it is Undubtedly our Nations Intereſt, we have a Foreign Plantation, which may not only to our Profit, take of the Native Product of our Country, but may be for Receiving, and competently Intertaining a great many People which may be ſpared there from; So this Method, to the Unconeivable Advantage of ſuch a Project, and to the Nations Good beyond Expreſſion, would tend to the Furniſh<g ref="char:EOLhyphen"/>ing of Perſons much fitted therefore. And as indeed the Advantages from ſuch a regular method will be both Great and Numerous; So if there were no other then the Credit and Advantage the Nation, to both our Religious and Cilvil Intereſt will have by Taking and Keeping a very Great Number of Youths of both Sexes from this Miſerable Cuſtom of Begging, which brings them to ſuch a Habit of living Idlie, as renders them not only abſolutely Uſeleſs in, but a Plague to their Country. It might of it ſelf be ſufficient to induce to what will overcome the Difficulties in this, ſo deſireable a Work. I have indeed ſuch a Senſe of the Frailty
+<pb n="2" facs="tcp:175277:2"/>in Man diſabling to the Rightly doing what is Good, as makes me ſee the Un<g ref="char:EOLhyphen"/>reaſonableneſs of that Popiſh Tenet anent Merit; Yet can I with Confidence ſay, who does Conſcienciouſly concern themſelves in this ſo plainly from the Word of GOD, the Duty of Mankind will not only to their Eternal Advantage, gain what in Compariſon is only deſirable, but they may thereby in things Temporal, draw down upon, and Rivet a Bleſſing to themſelves and their Poſterity.</p>
+            <p>I ſhall not Undervalue what this Seſſion of Parliament has the Proſpect of doing for the Good of the Nation; and I Cheerfully wiſh they ſucceed in their Endea<g ref="char:EOLhyphen"/>vours, yet I do ſay, all under their Condition comes not near to what may Un<g ref="char:EOLhyphen"/>doubtedly be the Nations Intereſt from ſo deſirable an Act, which will Eternize the Memory of this Seſſion, as it will be to the Unconceivable Reputation and Honour of His Majeſty's Commiſſioner; Yea after Ages, ſpeaking of the Reign of Our preſent Soveraign will not do it under the Denomination of King <hi>William</hi> the 2.<hi>d.</hi> but King <hi>William</hi> in whoſe Reign the Act effectually regulating the Poor, was made and duely Execute.</p>
+            <p>Surely if my Pen were able to expreſs what my Heart conceives of the Cala<g ref="char:EOLhyphen"/>mitous Condition of the Poor, and the Advantages that will occur from their be<g ref="char:EOLhyphen"/>ing ſutably relieved, I think I could give Arguments moving the hardeſt of hearts in the moſt unconcerned of Mankind, to endeavour it: But I know ye may juſt<g ref="char:EOLhyphen"/>ly ſay, the Difficulty lyes not in enforcing what is ſo obvious to the leaſt think<g ref="char:EOLhyphen"/>ing of Perſons, but in propoſing the Remedy.</p>
+            <p>I am ſenſible it were Arrogance almoſt altogether unjuſtifiable, my pretending to direct in ſo great a Matter, and where there are ſo great and knowing Perſons, who upon ſedate Conſideration will ſee unto the Means for accompliſhing this ſo deſirable and undoubtedly excelling a Reformation; Yet I do hereby preſume to ſay, that no Act that can be conceived, relating to this Affair, will take effect, unleſs the Execution thereof be otherways directed than has been hitherto. And I truly conceive, would it pleaſe the Parliament, to name ſome conſiderable number of the moſt Conſcientious Nobility, Gentry and Burgeſſes, eſpecially in or near about <hi>Edinburgh, Glaſgow,</hi> or other Places of greateſt Reſort within the Kingdom, who by a Law might be Erected into a Society or Company, having Power to eſtabliſh their Rules for Management, into whoſe hands the Ex<g ref="char:EOLhyphen"/>ecution of the Law for Regulating the Poor might be Committed, there may be a Competent Number of ſuch Condeſcended upon, as will chearfully from Con<g ref="char:EOLhyphen"/>ſcience underly the Trouble: I ſhall again ſay, it were Impertinent in me to pro<g ref="char:EOLhyphen"/>poſe what is neceſſar to come under Conſideration in a Method of this Kind; but ſurely as the Burrows now appointed to put up houſes for receiving Vagrant Perſons, are unable to the doing thereof, ſo much leſs do they know how profi<g ref="char:EOLhyphen"/>tably to provide for and imploy them in Work. And as there muſt be Rules laid down to know what Super-numerary Poor are in Pariſhes throughout the King<g ref="char:EOLhyphen"/>dom, beyond their Power to mantain, and how and where theſe are to be man<g ref="char:EOLhyphen"/>tain'd; ſo at <hi>Edinburgh,</hi> and other fit Places, there would be Manufactories for re<g ref="char:EOLhyphen"/>ceiving Young ones and others, not knowing how, or unwilling to imploy them<g ref="char:EOLhyphen"/>ſelves in ſome Work ſuteable to their Capacity. I freely grant you, the View of the Difficulties occurring is indeed great, yet undoubtedly they are ſuperable, and the Advantages accreſcing from the Work done, will unconceivably overballance them. Indeed there could be no Thought of any reaſonable Acting in this Affair, without putting into the Truſt of the Society ſo Erected, a Competent Stock enabling to the Mantainance of the ſuper-numerary Poor, that Pariſhes are not able to mantain, and ſetting up at <hi>Edinburgh,</hi> and ſome other Places, Manufactor<g ref="char:EOLhyphen"/>ies for putting to Work Young Ones and others, that may otherwayes want the Occaſion, or be unwilling to Imploy themſelves: And I verily think a Stock of near Twenty Thouſand Pound <hi>Sterling</hi> imployed by the Publick for that Uſe, would be Money ſo profitably diſpoſed of, as never had the Country Occaſion more chearfully to give; And I conceive the Society might be ſo Conſtitute, as there would be more than probable Grounds it would not fail by Miſmanagement. The Money may be ſo ſoon needful, as will at leaſt require a Months Ceſs yearly whilſt it were compleated. I ſhall readily grant, that what the Parliament may
+<pb n="3" facs="tcp:175277:2"/>at this time ſee otherways needful, will render any thought of further impoſing upon the Country grievous; but ſurely upon Conſideration, any Impoſition to this Effect can never be conſidered a Burden; for it is but putting the Country to give in a Regular Method what they otherways muſt, and does give to a greater quan<g ref="char:EOLhyphen"/>tity and leſs profitably.</p>
+            <p>Sir, I acknowledge this Repreſented may be by many conſidered, but an impra<g ref="char:EOLhyphen"/>cticable Notion, and what will have but the Effect of other Endeavours hitherto made, in Regulating what relates to the Poor; and it ſhall be well ſatisfieing to me if it ſhall only put you and others of the Members of Parliament, to think upon what may be practicable. In my Converſe through the Country, I find ſome of conſiderable Intereſt partly unconcerned in the Poor, and without Bowels of Compaſſion towards them, and willing to proceed in any Method eaſeful to them<g ref="char:EOLhyphen"/>ſelves, albeit having the Proſpect of a direful Calamity to the Generality of the of the Poor throughout the Kingdom; Others do not Comprehend how, albeit they be willing in their Stations ſuteably to Act in this Affair: And ſurely, if there be from the Word of GOD a Tye upon Chriſtians to a poſitive Duty, it is to that of Charity; and is it poſſible for your great Meeting more truly to evince the Senſe of their Obligation thereto, than by doing what is not only ſo much the Nation's Civil Intereſt, but will be Charitable to a very high Degree. I do remember to have read a Sermon upon that Subject, Preached by Dr. <hi>Barrow</hi> u<g ref="char:EOLhyphen"/>pon a Hoſpital day, before the Mayor of <hi>London,</hi> which if peruſed by you and your Fellow-Commiſſioners would perſwade, that than Charity to the Poor, there is no Duty more peremptorly commanded; But that Sermon being long and now ſo much out of Print, as it may not come to your hand, it is like you may if you call at Mrs. <hi>Ogſton</hi> or <hi>John Mackie</hi> their Shops, have a kind of Abridge<g ref="char:EOLhyphen"/>ment thereof, but in two or three Sheets as may ſatisfie; Ye cannot to greater Ad<g ref="char:EOLhyphen"/>vantage for your Countrey or your Self imploy the utmoſt of your Endeavours, than in doing for the Good of the Poor, what After-Ages may Rejoice in; And that GOD may put into your hearts ſuteably to endeavour it, and Bleſs the ſamen with Succeſs, is, and ſhall be the hearts Deſire of</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Affectionat and humble Servant.</signed>
+               <date>10 <hi>May</hi> 1700.</date>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>P. S.</hi> I am ſo ſatisfied of that Method appointing each Paroch to mantain their own Poor, as I wiſh it were put in Execution; but ſurely, its being duely done needs much to be enquired into, and it were a Calamity very Intolerable, if by its not being General, and every One, Great and Mean put to their Duty there<g ref="char:EOLhyphen"/>in; the Poor in ſome Places ſhould be hindred to Beg, yet be in a ſtraitned and ſtarving Condition, where-from will ariſe no ſmall part of the Work of the Society burdened to ſee to the Execution of theſe Laws. And as it might not be Impro<g ref="char:EOLhyphen"/>per, to give ſome General Directions to the Paroches, as to the Method of their Acting; So if it be worth your Peruſal, I ſend you under-written what was intended to be the Rule for proceeding in this Affair by a Paroch Neighbouring to your ſelf.</p>
+               <p>Theſe within the Paroch of  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  in Obedience to the Acts for regu<g ref="char:EOLhyphen"/>lar Mantenance of the Poor, and as being fully ſenſible of the many and Great Inconveniencies from Begging, both to the Receivers and Givers of Charity do reſolve.</p>
+               <p n="1">1. To make an exact Liſt of all ſuch within the Paroch, as cannot of themſelves Subſiſt.</p>
+               <p n="2">2. As being Conſcious of the poſitive and plain Command of GOD, that the Poor have Liberal and Comfortable Mantenance, they will allot to theſe, as can noways contribute to their own Subſiſtance, One Peck of Oat-Meal Weekly, and One Shilling <hi>Scots</hi> each Day in Money,.</p>
+               <pb n="4" facs="tcp:175277:3"/>
+               <p n="3">3. Theſe Needy and Impotent Perſons being reduced out of the Liſt, they will allow to the Remander ſuch a Proportion of Meal or Money, as with what they ſhall be able to gain by their own Labour, may be the Mean of their comfort<g ref="char:EOLhyphen"/>able Subſiſtance.</p>
+               <p n="4">4. Where Parents are Burdened with Children beyond their Ability to Mantain, they are to be Ranked in two ſorts, and either conſidered as Children of Parents, who albeit Indigent, are Sober and Willing to endeavour their Chriſtian Education, or that they are Children of Prophane and Careleſs Parents, whoſe example may, yea does draw their Children to almoſt every evil, and in the firſt caſe does re<g ref="char:EOLhyphen"/>ſolve anſwerable to the number and need of ſuch Children, to give to the Parents what may enable them to their Childrens mantainance; and encourage their endeavours in their ſutable Education: And in the Second, do reſolve to take from Prophane and Careleſs Parents, ſuch Children as they are not able to man<g ref="char:EOLhyphen"/>tain, and diſpoſe of them in Familys, where they may by Precept and Example have the Means of Knowledge, and a Chriſtian Education; They are at School or otherways, to be taught at leaſt to Read the Word of GOD, and, as according to their Ability and their Learning to Read will allow, they are to be Serviceable in any Employment within their power, ſo the Pariſh is to give to the Maſter of that Family in which they are, ſo much, as their giving the Young One <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ither Meat, Cloaths or Learning, ſhall not be their Burden.</p>
+               <p n="5">5. Such as are without Parents and indigent, are to be diſpoſed of as the Chil<g ref="char:EOLhyphen"/>dren of the Profane and careleſs, and it's hoped every honeſt Man will be ſenſi<g ref="char:EOLhyphen"/>ble of their having Credit, yea even Advantage in their Educating a poor one, who is in a ſpecial manner owned of God, ſo as with confidence may be expect<g ref="char:EOLhyphen"/>ed the repayment of what is rightly done to them.</p>
+               <p n="6">6. This diviſion being made, and a true Computation of what the whole will amount to, there is to be choſen ſix or more honeſt Men within the Pariſh, who are to Stent all the inhabitants, Maſters of Familys and others according to their Ability, their income and way of living, in a Monthly Contribution; And as it is hoped every one but pretending to Conſcience, will be aſhamed to refuſe obe<g ref="char:EOLhyphen"/>dience to ſo laudable and Chriſtian a practiſe: So it were deſireable that Autho<g ref="char:EOLhyphen"/>rity were applyed to, that, by ſome publick Act they would Authorize ſuch Stent Maſters, as the Stent Rolls duly Subſcribed, might at leaſt be ground of a Claim for obtaining the Sentence of a Judge for the due and ready payment thereof.</p>
+               <p n="7">7. Becauſe the circumſtances even of the givers of Charity may alter, the Stent Roll by new Stent-Maſters is to be renewed every Year, and if the Number and Circumſtances of the Poor do vary, ſo as more yea even leſs may be required, the Roll is likeways in either of theſe Caſes, to be altered, when ever they do occur.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is like it may be thought this weekly allowance may be too large, but were I to Vote in this Affair, I would not be ſo perſwaded, for a poor Man or Woman having their health, yet unable to do any thing for their own Subſiſtance, could not well be maintained with Leſs, and if their Inclination to meat, through ſickneſs, age or any accedent, ſhould be leſſned, they will need to as great an Expenſe under theſe circumſtances to be ſupply'd. And when it ſhall pleaſe God to bring Victual to the uſual Price, this allowance for the Poor will extend to no great Matter. It may be reaſoned the conveniency of appointing what the Par<g ref="char:EOLhyphen"/>liament intends for this uſe its being uplifted by Pole, ſince otherways many en<g ref="char:EOLhyphen"/>abled to the giving in Charity may be miſſed, but what is appointed by Pole, or any other Method, then what is the uſual way of uplifting in this Kingdom, coming ſo little to Anſwer what is expected therefrom; I conceive the uſual way will uncontravertedly be moſt effectual, and the Mannagers in giving their Di<g ref="char:EOLhyphen"/>rections to the Paroches, as to their Stenting, may ſo order it, as they have a Particular reſpect to Servants and all others, as they may be able to give, and e<g ref="char:EOLhyphen"/>ſpecially ſuch as by the uſual way of paying publick burdens are exempted there<g ref="char:EOLhyphen"/>from.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
